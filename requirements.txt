@@ -1,0 +1,8 @@
+finance-datareader==0.9.96
+matplotlib==3.10.3
+numpy==2.3.1
+openpyxl==3.1.5
+pandas==2.3.1
+plotly==6.2.0
+setuptools==80.9.0
+streamlit==1.46.1
